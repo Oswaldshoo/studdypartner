@@ -24,7 +24,7 @@ Study Buddy is a web application designed to connect students with similar study
 
 ## Installation
 
-Install my-project with npm
+Install study partner with git bash
 
 ```bash
   git clone https://github.com/Oswaldshoo/studdypartner.git
