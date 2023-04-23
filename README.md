@@ -17,9 +17,9 @@ Study Buddy is a web application designed to connect students with similar study
 
 ## Tech Stack
 
-**Client:** Html, Css, Sass, Javascript
+**Client:** Html, Css, Javascript
 
-**Server:** Node
+**Server:** PHP
 
 
 ## Installation
