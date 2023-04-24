@@ -13,6 +13,7 @@ Study Buddy is a web application designed to connect students with similar study
 ## Authors
 
 - [Oswald Shoo](https://www.github.com/oswaldshoo)
+- [Denis Mtema](https://www.github.com/iDennisofficial)
 
 
 ## Tech Stack
